@@ -11,9 +11,7 @@ This repository contains a detailed report and practical tasks completed as part
 ## Learning Outcome
 This project enhances understanding of threat intelligence tools and their practical applications in cybersecurity, equipping users with actionable insights to mitigate risks.
 
-## Completion Details
-- Completion certificate link: [TryHackMe Module Achievement](https://tryhackme.com/room/threatinteltools)
-- Public profile: [Daniel Mwendwa on TryHackMe](https://tryhackme.com/p/Daniel.Mwendwa)
+
 
 ## Author
 **Daniel Mwendwa Mwithui**  
