@@ -1,5 +1,5 @@
-# Threat Intelligence Tools: TryHackMe  
-This repository contains a detailed report and practical tasks completed as part of the "Threat Intelligence Tools" module on TryHackMe. The project highlights the use of powerful tools like URLScan.io, Abuse.ch, PhishTool, and Cisco Talos Intelligence to detect, analyze, and combat cyber threats.
+# Threat Intelligence Tools:
+This repository contains a detailed report and practical tasks completed as part of the Threat Intelligence Tools. The project highlights the use of powerful tools like URLScan.io, Abuse.ch, PhishTool, and Cisco Talos Intelligence to detect, analyze, and combat cyber threats.
 
 ## Key Features
 - **URLScan.io:** Scanning and analyzing URLs for malicious activities and potential threats.
