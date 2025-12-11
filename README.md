@@ -15,4 +15,4 @@ This project enhances understanding of threat intelligence tools and their pract
 
 ## Author
 **Daniel Mwendwa Mwithui**  
-Security Analyst | Enthusiast in Threat Intelligence and Cybersecurity  
+Security Analyst 
